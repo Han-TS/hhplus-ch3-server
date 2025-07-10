@@ -1,0 +1,1 @@
+INSERT INTO Member(id, name, balance) VALUES(1, 'psy', 10000);
